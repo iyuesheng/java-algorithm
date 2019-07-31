@@ -1,4 +1,4 @@
-package org.dullnull.stack;
+package org.dullnull.common;
 
 /**
  * @author iisheng

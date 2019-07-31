@@ -1,5 +1,7 @@
 package org.dullnull.stack;
 
+import org.dullnull.common.LinearNode;
+
 /**
  * @author iisheng
  * @date 2019/07/29 23:32:13
