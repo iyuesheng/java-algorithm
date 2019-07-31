@@ -110,6 +110,6 @@ public class ArrayStack<T> implements StackADT<T> {
      */
     @Override
     public String toString() {
-        return "";
+        return Arrays.toString(stack);
     }
 }
