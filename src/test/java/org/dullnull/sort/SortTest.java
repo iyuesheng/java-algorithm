@@ -20,7 +20,7 @@ public class SortTest {
 
     @Test
     public void selectSortTest() {
-        SelectSort selectSort= new SelectSort();
+        SelectSort selectSort = new SelectSort();
         selectSort.sort(array);
 
         SortUtils.print(array);
@@ -28,8 +28,16 @@ public class SortTest {
 
     @Test
     public void insertSortTest() {
-        InsertSort insertSort= new InsertSort();
+        InsertSort insertSort = new InsertSort();
         insertSort.sort(array);
+
+        SortUtils.print(array);
+    }
+
+    @Test
+    public void quickSortTest() {
+        QuickSort quickSort = new QuickSort();
+        quickSort.sort(array);
 
         SortUtils.print(array);
     }
