@@ -41,4 +41,12 @@ public class SortTest {
 
         SortUtils.print(array);
     }
+
+    @Test
+    public void mergeSortTest() {
+        MergeSort mergeSort = new MergeSort();
+        mergeSort.sort(array);
+
+        SortUtils.print(array);
+    }
 }
