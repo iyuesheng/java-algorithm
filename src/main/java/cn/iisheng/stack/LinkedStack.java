@@ -1,6 +1,6 @@
-package org.dullnull.stack;
+package cn.iisheng.stack;
 
-import org.dullnull.common.LinearNode;
+import cn.iisheng.common.LinearNode;
 
 /**
  * @author iisheng
