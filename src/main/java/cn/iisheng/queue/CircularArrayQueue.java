@@ -1,4 +1,4 @@
-package org.dullnull.queue;
+package cn.iisheng.queue;
 
 /**
  * @author iisheng

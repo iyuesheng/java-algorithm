@@ -1,4 +1,4 @@
-package org.dullnull.stack;
+package cn.iisheng.stack;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package org.dullnull.common;
+package cn.iisheng.common;
 
 /**
  * @author iisheng

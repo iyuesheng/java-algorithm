@@ -1,6 +1,6 @@
-package org.dullnull.queue;
+package cn.iisheng.queue;
 
-import org.dullnull.common.LinearNode;
+import cn.iisheng.common.LinearNode;
 
 /**
  * @author iisheng
