@@ -8,11 +8,9 @@ import cn.iisheng.common.LinearNode;
  */
 public class LinkedQueue<T> implements QueueADT<T> {
 
-
     private int count;
 
     private LinearNode<T> head, tail;
-
 
     public LinkedQueue() {
         count = 0;
